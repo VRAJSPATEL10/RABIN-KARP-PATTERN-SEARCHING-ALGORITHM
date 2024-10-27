@@ -1,4 +1,4 @@
-# Rabin-Karp Pattern Searching Algorithm
+# RABIN-KARP-PATTERN-SEARCHING-ALGORITHM
 
 This C program uses the Rabin-Karp algorithm to search for a specific pattern within a given text. Users can input a text, a pattern to search, and a prime number, which is used in hash calculations for pattern matching.
 
@@ -15,7 +15,7 @@ This C program uses the Rabin-Karp algorithm to search for a specific pattern wi
 
 ## Getting Started
 
-1. **Clone the Repository**: Clone or download the `rabin_karp.c` file.
+1. **Clone the Repository**: Clone or download the  file.
 2. **Compile the Code**: Open a terminal in the directory where `rabin_karp.c` is located and run:
 
     ```bash

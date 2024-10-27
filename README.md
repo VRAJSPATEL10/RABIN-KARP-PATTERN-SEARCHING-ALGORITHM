@@ -15,18 +15,9 @@ This C program uses the Rabin-Karp algorithm to search for a specific pattern wi
 
 ## Getting Started
 
-1. **Clone the Repository**: Clone or download the  file.
-2. **Compile the Code**: Open a terminal in the directory where `rabin_karp.c` is located and run:
-
-    ```bash
-    gcc -o rabin_karp rabin_karp.c -lm
-    ```
-
-3. **Run the Program**: Run the compiled program with:
-
-    ```bash
-    ./rabin_karp
-    ```
+1. **Clone the Repository**: Clone or download the file.
+2. **Compile the Code**
+3. **Run the Program**
 
 ## Usage
 
